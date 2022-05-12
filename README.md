@@ -11,8 +11,8 @@ This script is used to convert the Veracode XML report to Excel file and also ch
 
 
 ## Steps of using it:
-1. Copy the exe file/Python file to the Veracode XML file folder.
-2. Run the command "Veracode_XML_to_CSV.exe Veracode_XML_File.xml" or "python3 Veracode_XML_to_CSV.py Veracode_XML_File.xml"
+1. Copy the exe file/Python file to the Veracode XML report file folder.
+2. Run the command "Veracode_XML_to_Excel.exe Veracode_XML_File.xml" or "python3 Veracode_XML_to_Excel.py Veracode_XML_File.xml"
 3. The output report will generate by the name "Veracodeout.xlsx"
 
 _**For more details check my blog:** https://lazyhacker.medium.com/_
