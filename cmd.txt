@@ -1,0 +1,1 @@
+pyinstaller.exe -F Veracode_XML_to_Excel.py -c -i icon.ico --version-file version.txt  --add-data  "\Python\Python310\Lib\site-packages\pyfiglet;./pyfiglet"
